@@ -1,0 +1,4 @@
+NonDemented
+MildDemented
+VeryMildDemented
+ModerateDemented
